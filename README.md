@@ -1,3 +1,7 @@
+---
+  tags: git, todo
+---
+
 Create a repository on Github named git-todo
 
 https://github.com/new
