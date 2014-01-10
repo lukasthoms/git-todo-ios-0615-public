@@ -1,5 +1,5 @@
 ---
-  tags: git, todo
+  tags: git, todo, tutorial
 ---
 
 Create a repository on Github named git-todo
