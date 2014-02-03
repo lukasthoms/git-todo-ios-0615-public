@@ -2,6 +2,10 @@
   tags: git, todo, tutorial
 ---
 
+# Git Todo
+
+## Instructions
+
 Open up your terminal and follow along!
 
 First, create a new directory to contain your git repository:
