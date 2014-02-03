@@ -17,10 +17,9 @@ cd git-todo
 ```
 
 You should now be in a brand new directory. Run `pwd` to see that your
-your present working directory is something like (with your Mac username
-in place of "USERNAME"):
+your present working directory looks something like this:
 
-`/Users/USERNAME/git-todo`
+`/Users/USERNAME/git-todo` (USERNAME is your operating system username)
 
 Now, create an empty file in your current directory:
 
