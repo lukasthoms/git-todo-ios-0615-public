@@ -4,6 +4,19 @@
 
 # Git Todo
 
+## Prerequisites
+
+* [Set up an SSH key for use with Github](https://help.github.com/articles/generating-ssh-keys)
+    - Having an SSH key will allow you to communicate with Github using
+      the SSH protocol. One of the benefits of this is that
+      it will allow you to communicate securely with Github without
+      having to type in your password.
+    - You have successfully set up your SSH key to work with Github when
+      running the `ssh -T git@github.com` command returns:
+
+      "Hi username! You've successfully authenticated, but GitHub does not
+      provide shell access."
+
 ## Overview
 
 This is a tutorial for creating the most basic git repository possible
