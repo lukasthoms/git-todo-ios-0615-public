@@ -39,13 +39,14 @@ Let's get started with git:
 git init
 ```
 
-This initializes the git repository. If you run `ls -a`, which list all
+This initializes the git repository. If you run `ls -a`, which lists all
 files in the current directory including hidden files, you should see
-both README.md and a directory called ".git". The dot preceding the
-filename tells your operating system that it is a hidden file, which is
-why we need the "-a" option for ls. Everything that makes your git
+both "README.md" and a directory called ".git". The dot preceding the
+directory name tells your operating system that it is a hidden file, which is
+why we gave the "-a" option to ls. Everything that makes your git
 repository a git repository is in this directory! This means that if we
-were to delete the .git directory.
+were to delete the .git directory then this directory would not longer
+be a git repository.
 
 Now we have to tell git which files we would like to keep track of.
 
