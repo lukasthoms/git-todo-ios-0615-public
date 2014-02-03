@@ -18,6 +18,8 @@ development teams (even 1 person teams!).
 
 It is "distributed" in the sense that many copies of a given repository
 can exist, but each copy can operate independently of any other copies.
+At the end of this tutorial, you will have 1 copy of your repository on
+your computer and 1 copy of your repository on Github.
 
 ## Instructions
 
