@@ -46,6 +46,8 @@ touch README.md
 
 Great, now you have something to version control! 
 
+Run the `ls` command to verify that README.md was created.
+
 ## Using git
 
 Let's get started with git:
