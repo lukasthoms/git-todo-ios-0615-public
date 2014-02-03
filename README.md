@@ -40,7 +40,7 @@ Open up your terminal and follow along!
 
 ## Create a file
 
-First, create a new directory in your home directory to contain your git repository:
+First, create the directory "git-todo" in your home directory to contain your git repository:
 
 ```
 cd ~
