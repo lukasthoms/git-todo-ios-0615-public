@@ -8,6 +8,8 @@
 
 Open up your terminal and follow along!
 
+## Create a file
+
 First, create a new directory to contain your git repository:
 
 ```
@@ -28,6 +30,8 @@ touch README.md
 ```
 
 Great, now you have something to version control! 
+
+## Using git
 
 Let's get started with git:
 
@@ -73,6 +77,8 @@ The -m option to commit indicates that we are providing a message to go
 along with this particular commit. Commits are the building blocks of a
 git repository. When we think about a git repository, we think about it
 in terms of commits and the relationships between commits.
+
+## Using Github
 
 So, now that we have a full-fledged git repository, let's introduce
 Github to the mix. Github is an online service that augments the
