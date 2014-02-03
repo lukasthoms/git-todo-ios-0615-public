@@ -16,7 +16,7 @@ mkdir git-todo
 cd git-todo
 ```
 
-You should now be in a brand new directory. Run `pwd` to see that your
+You should now be in a brand new directory. Run `pwd` to see that 
 your present working directory looks something like this:
 
 `/Users/USERNAME/git-todo` (USERNAME is your operating system username)
