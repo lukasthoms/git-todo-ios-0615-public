@@ -134,7 +134,7 @@ for a repository with no content. This is because our new Github
 repository doesn't know about the commits on our computer yet!
 It looks something like this:
 
-[new github repository](http://flatiron-web-assets.s3.amazonaws.com/curriculum/git-todo/empty-github-repository.png)
+![new github repository](http://flatiron-web-assets.s3.amazonaws.com/curriculum/git-todo/empty-github-repository.png)
 
 We have an existing repository, so paste the 2 lines in that section in
 to your terminal within the git-todo repository directory.
