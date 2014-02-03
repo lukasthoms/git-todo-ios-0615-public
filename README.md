@@ -43,12 +43,12 @@ This initializes the git repository. If you run `ls -a`, which lists all
 files in the current directory including hidden files, you should see
 both "README.md" and a directory called ".git". The dot preceding the
 directory name tells your operating system that it is a hidden file, which is
-why we gave the "-a" option to ls. Everything that makes your git
-repository a git repository is in this directory! This means that if we
-were to delete the .git directory then this directory would not longer
+why you gave the "-a" option to ls. Everything that makes your git
+repository a git repository is in this directory! This means that if you
+were to delete the ".git" directory then this directory would not longer
 be a git repository.
 
-Now we have to tell git which files we would like to keep track of.
+Now you have to tell git which files you would like to keep track of.
 
 Let's first run:
 
@@ -56,32 +56,32 @@ Let's first run:
 git status
 ```
 
-This tells us that we have a file "not staged" for commit. In git, we
-have to stage the files that we would like git to keep track of for us
-because it's not always the case that we would like to keep track of all
-the changes we just made. So, let's add the changes that we've made to
-the repository with the following command:
+This says you have a file "not staged" for commit. In git, you
+have to stage the files that you want git to keep track of because it's not
+always the case that you want to keep track of all the changes you just made.
+So, let's stage the changes you made as a precursor to actually
+integrating the changes into the git repository.
 
 ```
 git add README.md
 ```
 
-Now, run `git status` again. We now see that there are "changes to be
-committed". Great! Let's commit the changes. Once we do so, the new
-README.md file will be in our git repository.
+Now, run `git status` again. You now see that there are "changes to be
+committed". Great! Let's commit the changes. Once you do so, the new
+README.md file will be in your git repository.
 
 ```
 git commit -m "Initial commit."
 ```
 
-The -m option to commit indicates that we are providing a message to go
+The -m option to commit indicates that you are providing a message to go
 along with this particular commit. Commits are the building blocks of a
 git repository. When we think about a git repository, we think about it
 in terms of commits and the relationships between commits.
 
 ## Using Github
 
-So, now that we have a full-fledged git repository, let's introduce
+So, now that you have a full-fledged git repository, let's introduce
 Github to the mix. Github is an online service that augments the
 experience of using git. 
 
