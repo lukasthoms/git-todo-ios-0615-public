@@ -48,7 +48,7 @@ mkdir git-todo
 cd git-todo
 ```
 
-You should now be in a brand new directory. Run `pwd` to see that 
+You should now be in the brand new git-todo directory. Run `pwd` to see that 
 your present working directory looks something like this:
 
 `/Users/USERNAME/git-todo` (USERNAME is your Mac OS X username)
