@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
-* [Set up an SSH key for use with Github](https://help.github.com/articles/generating-ssh-keys)
+* [Follow the instructions from Github linked here for setting up an SSH key](https://help.github.com/articles/generating-ssh-keys)
     - Having an SSH key will allow you to communicate with Github using
       the SSH protocol. One of the benefits of this is that
       it will allow you to communicate securely with Github without
