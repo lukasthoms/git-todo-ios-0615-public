@@ -109,11 +109,14 @@ README.md file will be in your git repository.
 git commit -m "Initial commit."
 ```
 
+This command creates a new object in git called a "commit"
+Commits are the building blocks of a git repository. They represent a set of
+changes made to the contents of the repository. When we think about a git
+repository, we think about it in terms of commits and the relationships
+between commits.
+
 The -m option to commit indicates that you are providing a message to go
-along with this particular commit. Commits are the building blocks of a
-git repository. They represent a set of changes made to the contents of
-the repository. When we think about a git repository, we think about it
-in terms of commits and the relationships between commits.
+along with this particular commit.
 
 ## Using Github
 
