@@ -136,7 +136,7 @@ It looks something like this:
 
 ![new github repository](http://flatiron-web-assets.s3.amazonaws.com/curriculum/git-todo/empty-github-repository.png)
 
-We have an existing repository, so paste the 2 lines in that section in
+We have an existing repository on our computer, so paste the 2 lines in that section in
 to your terminal within the "git-todo" repository directory.
 
 The first line that starts off with `git remote add` tells your git
