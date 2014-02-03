@@ -56,10 +56,13 @@ Let's get started with git:
 git init
 ```
 
-This initializes the git repository. If you run `ls -a`, which lists all
+This initializes the git repository, or in other words, it creates a
+directory called ".git" which contains some stuff that git needs.
+
+If you run `ls -a`, which lists all
 files in the current directory including hidden files, you should see
 both "README.md" and a directory called ".git". The dot preceding the
-directory name tells your operating system that it is a hidden file, which is
+directory name tells your operating system that it is hidden, which is
 why you gave the "-a" option to ls. Everything that makes your git
 repository a git repository is in this directory! This means that if you
 were to delete the ".git" directory then this directory would not longer
