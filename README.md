@@ -94,8 +94,8 @@ git status
 This says you have a file "not staged" for commit. In git, you
 have to stage the files that you want git to keep track of because it's not
 always the case that you want to keep track of all the changes you just made.
-So, let's stage the changes you made as a precursor to actually
-integrating the changes into the git repository.
+So, let's stage the changes you would like to track as a precursor to actually
+putting the changes into the git repository.
 
 ```
 git add README.md
