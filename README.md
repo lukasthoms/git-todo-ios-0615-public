@@ -9,7 +9,7 @@
 This is a tutorial for creating the most basic git repository possible
 and adding it to the online service Github.
 
-Git is a distibuted source control management system.
+Git is a "distibuted source control management system".
 
 It is a "source control management system" in the sense that it helps
 the user to control and manage changes being made to a collection of
@@ -25,7 +25,7 @@ Open up your terminal and follow along!
 
 ## Create a file
 
-First, create a new directory to contain your git repository:
+First, create a new directory in your home directory to contain your git repository:
 
 ```
 cd ~
