@@ -12,7 +12,7 @@
       it will allow you to communicate securely with Github without
       having to type in your password.
     - You have successfully set up your SSH key to work with Github when
-      running the `ssh -T git@github.com` command returns:
+      running the `ssh -T git@github.com` command in your terminal returns:
 
       "Hi username! You've successfully authenticated, but GitHub does not
       provide shell access."
