@@ -27,7 +27,7 @@ Now, create an empty file in your current directory:
 touch README.md
 ```
 
-Great, now we have something to version control! 
+Great, now you have something to version control! 
 
 Let's get started with git:
 
@@ -37,7 +37,7 @@ git init
 
 This initializes the git repository. If you run `ls -a`, which list all
 files in the current directory including hidden files, you should see
-both README.md and directory called ".git". The dot preceding the
+both README.md and a directory called ".git". The dot preceding the
 filename tells your operating system that it is a hidden file, which is
 why we need the "-a" option for ls. Everything that makes your git
 repository a git repository is in this directory! This means that if we
