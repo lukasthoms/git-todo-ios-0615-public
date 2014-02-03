@@ -129,13 +129,12 @@ option. **DO NOT** check the box that says "initialize this repository with a RE
 
 Once you've done this, click "Create repository".
 
-You will be taken to the git-todo repository page and be shown the view
-for repository with no content. This is because our new Github
+You will be taken to the "git-todo" repository page and be shown the view
+for a repository with no content. This is because our new Github
 repository doesn't know about the commits on our computer yet!
+It looks something like this:
 
-You should see two sections on this page, one for "creating a new
-repository on the command line" and one for "pushing an existing repository
-from the command line".
+[new github repository](http://flatiron-web-assets.s3.amazonaws.com/curriculum/git-todo/empty-github-repository.png)
 
 We have an existing repository, so paste the 2 lines in that section in
 to your terminal within the git-todo repository directory.
