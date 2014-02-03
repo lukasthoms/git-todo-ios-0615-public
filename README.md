@@ -143,7 +143,7 @@ The first line that starts off with `git remote add` tells your git
 repository where on the internet your Github repository lives.
 
 The second line, `git push -u origin master`, instructs your git
-repository to send it's commits to Github!
+repository to send it's commits to the Github repository!
 
 Once your `git push -u origin master` is successful, refresh the Github
-page in your browser and you should see your "README.md" file. Congrats!
+repository page in your browser and you should see your "README.md" file. Congrats!
