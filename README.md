@@ -147,3 +147,8 @@ repository to send it's commits to the Github repository!
 
 Once your `git push -u origin master` is successful, refresh the Github
 repository page in your browser and you should see your "README.md" file. Congrats!
+
+Here's an example of what the repository will look like on Github with
+the README.md file:
+
+![github repository with readme file](http://flatiron-web-assets.s3.amazonaws.com/curriculum/git-todo/git-todo-github-with-readme.png)
