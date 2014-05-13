@@ -1,5 +1,6 @@
 ---
   tags: git, todo, tutorial
+  resources: 4
 ---
 
 # Git Todo
@@ -156,3 +157,9 @@ Here's an example of what the repository will look like on Github with
 the README.md file:
 
 ![github repository with readme file](http://flatiron-web-assets.s3.amazonaws.com/curriculum/git-todo/git-todo-github-with-readme.png)
+
+## Resources
+* [Pro Git](http://git-scm.com/book/) - [1.1 Getting Started - About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control), page 
+* [Pro Git](http://git-scm.com/book/) - [2.1 Git Basics - Getting a Git Repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository)
+* [Pro Git](http://git-scm.com/book/) - [2.2 Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
+* [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - [Introduction Sequence: Introduction to Git Commits](http://pcottle.github.io/learnGitBranching/), page NA
