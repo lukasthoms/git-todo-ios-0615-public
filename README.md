@@ -1,4 +1,5 @@
 ---
+  languages: bash
   tags: git, todo, tutorial
   resources: 4
 ---
